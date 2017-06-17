@@ -19,6 +19,7 @@
 */
 
 #ifdef HAVE_LIBOSMESA
+#include <stdio.h>
 #include <stdlib.h>
 #include <GL/osmesa.h>
 #include "../OGLRender.h"
